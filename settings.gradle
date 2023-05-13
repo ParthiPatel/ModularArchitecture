@@ -16,3 +16,4 @@ rootProject.name = "ModularArchitecture"
 include ':app'
 include ':app:login'
 
+include ':dynamicfeature'
